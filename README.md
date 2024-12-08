@@ -41,8 +41,7 @@ begin
 end
 endmodule
 ```
-
- Developed by: RegisterNumber:
+ Developed by:PORKODI B RegisterNumber:24900502
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
